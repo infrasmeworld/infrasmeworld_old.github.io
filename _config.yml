@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      # url: "https://www.linkedin.com/in/hrishikeshpa/"
+      url: "https://www.linkedin.com/in/hrishikeshpa/"
 
 # Site Footer
 footer:
