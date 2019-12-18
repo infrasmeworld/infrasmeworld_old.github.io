@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Hrishikesh P.A"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Platform and cloud Devops consultant"
   location         : "London, United Kingdom"
   email            :
