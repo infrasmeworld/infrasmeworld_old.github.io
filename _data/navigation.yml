@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Cloud"
     url: /cloud/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Devops"
+    url: /devops/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
