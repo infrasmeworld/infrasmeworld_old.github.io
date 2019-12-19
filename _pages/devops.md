@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /devops/
 title: "Devops posts"
 author_profile: true
