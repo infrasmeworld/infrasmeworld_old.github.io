@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /cloud/
 title: "Cloud technology posts"
 author_profile: true
