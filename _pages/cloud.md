@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /Cloud/
+permalink: /cloud/
 title: "Cloud technology posts"
 author_profile: true
 header:
