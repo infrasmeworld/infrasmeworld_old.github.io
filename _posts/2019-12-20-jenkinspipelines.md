@@ -1,13 +1,11 @@
 ---
 title: "Jenkins — Pipeline"
 date: 2019-12-20
-tags: [Git, devops]
+tags: [jenkins, devops]
 header:
   image: "/images/cloud.png"
 excerpt: "Jenkins, devops, pipelines"
 ---
-
-# Jenkins — Pipeline::
 
 ## Jenkins:
 
@@ -32,8 +30,10 @@ Jenkins file keeps the list of jobs which the pipeline will perform. It can be h
 
 Jenkinsfile (Declarative Pipeline)
 
+
 pipeline {
     agent any
+
     stages {
         stage('Build') {
             steps {
