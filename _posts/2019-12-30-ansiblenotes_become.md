@@ -8,3 +8,11 @@ excerpt: "ansible, devops, automation"
 ---
 
 Become is used for privilege escalation to execute tasks with root privileges or as another user. If set to "yes", activates privilege escalation. 
+
+Example:
+
+- name: Ensure the httpd service is running
+  service:
+    name: httpd
+    state: started
+  become: yes
