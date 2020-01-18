@@ -11,8 +11,9 @@ The shell module can be used to execute shell commands on target hosts.
 
 Example:
 
+```
     - name: Backup the current nsswitch config file
       shell: "mv /etc/nsswitch.conf /etc/nsswitch.conf_`date +%F`"
-
+```
 
 
