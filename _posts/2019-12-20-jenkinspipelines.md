@@ -30,6 +30,7 @@ Jenkins file keeps the list of jobs which the pipeline will perform. It can be h
 
 Jenkinsfile (Declarative Pipeline)
 
+```
 
 pipeline {
     agent any
@@ -52,4 +53,5 @@ pipeline {
         }
     }
 }
- 
+
+```
