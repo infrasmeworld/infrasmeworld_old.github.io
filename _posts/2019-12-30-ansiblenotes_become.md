@@ -13,8 +13,10 @@ Become is used for privilege escalation to execute tasks with root privileges or
 
 Example:
 
+```
 - name: Ensure the httpd service is running
   service:
     name: httpd
     state: started
   become: yes
+```
