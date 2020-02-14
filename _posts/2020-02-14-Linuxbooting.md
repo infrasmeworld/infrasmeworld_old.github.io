@@ -3,7 +3,7 @@ title: "Linux bootstrapping"
 date: 2019-12-20
 tags: [Linux, system internals]
 header:
-  image: "/images/cloud.png"
+  image: "/images/bootstraping.png"
 excerpt: "Linux, system internals"
 ---
 
