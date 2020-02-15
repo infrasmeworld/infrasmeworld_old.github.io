@@ -35,8 +35,8 @@ These can be considered as kernel portions dresses up like processes for archite
 
 Single user mode can be accessed by passing a command-line flag by the Kernel. 
 
------
+```
 kernel /vmlinuz ro root=LABEL=/ rhgb quiet single
------
+```
 
 You will be prompted to enter your root password during the single-user user mode. Type <cntl D> to bypass the single-user mode and to proceed with the normal boot process. Sometimes only root partition will be mounted in single-user mode. Mount the required file systems manually to use applications/ programs that are not available under root partition.
