@@ -45,7 +45,7 @@ You will be prompted to enter your root password during the single-user user mod
 # mount -o rw,remount /
 ```
 
-## Bootsrapping PCs
+## Bootstrapping PCs
 
 First step in bootstrapping starts with executing a code stored in ROM which is called firmware. Firmware knows the connected devices and how to use them, how to talk to the network devices connected and how to understand the disk based filesystems. In PCs boot code is known as BIOS. BIOS knows about the devices present in motherboard like SATA and IDE controllers and disks, network devices, temperature meters, power and system hardware. 
 
