@@ -39,4 +39,13 @@ Single user mode can be accessed by passing a command-line flag by the Kernel.
 kernel /vmlinuz ro root=LABEL=/ rhgb quiet single
 ```
 
-You will be prompted to enter your root password during the single-user user mode. Type <cntl D> to bypass the single-user mode and to proceed with the normal boot process. Sometimes only root partition will be mounted in single-user mode. Mount the required file systems manually to use applications/ programs that are not available under root partition.
+You will be prompted to enter your root password during the single-user user mode. Type <cntl D> to bypass the single-user mode and to proceed with the normal boot process. Sometimes only root partition will be mounted in single-user mode. Mount the required file systems manually to use applications/ programs that are not available under root partition. In some single user mode, the file system root directory will be mounted read-only. If /etc is part of the "/" root file system, we will not be able to edit the important config files under /etc. In such cases, we need to remount the "/" file system in read/write mode.
+
+```
+# mount -o rw,remount /
+```
+
+## Bootsrapping PCs
+
+First step in bootstrapping starts with executing a code stored in ROM which is called firmware. Firmware knows the connected devices and how to use them, how to talk to the network devices connected and how to understand the disk based filesystems. In PCs boot code is known as BIOS. BIOS knows about the devices present in motherboard like SATA and IDE controllers and disks, network devices, temperature meters, power and system hardware. 
+
