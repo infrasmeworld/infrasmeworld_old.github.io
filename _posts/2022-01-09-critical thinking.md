@@ -24,4 +24,5 @@ writing, you are expected to able to present those arguments/views in a logical 
 
 ### Higher order thinking skills
 
-<img width="411" alt="thinking skills" src="https://user-images.githubusercontent.com/58917487/148698378-e9e6397d-4423-44e1-9163-d19ed52c431f.png">
+#<img width="411" alt="thinking skills" src="https://user-images.githubusercontent.com/58917487/148698378-e9e6397d-4423-44e1-9163-d19ed52c431f.png">
+<img width="411" alt="thinking skills" src="/images/thinking skills.png">
