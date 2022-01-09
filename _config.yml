@@ -111,7 +111,7 @@ author:
 #  name             : "Hrishikesh P.A"
 #  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   name             : "Infra SME"
-  avatar           : "/images/infrasmeimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/infrasmeimage.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Platform and cloud Devops consultant"
   location         : "London, United Kingdom"
   email            :
