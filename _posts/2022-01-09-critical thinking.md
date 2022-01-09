@@ -22,6 +22,6 @@ Not just excepting the view points. Still have to question the view point by doi
 Being critical of ideas and to arrive your own independent opinion based upon the evidence that you've explored. Arriving at your own well argued conclusion. While,
 writing, you are expected to able to present those arguments/views in a logical structure so that people can follow the rational for your conclusion. 
 
-Higher order thinking skills
+### Higher order thinking skills
 
 <img width="411" alt="thinking skills" src="https://user-images.githubusercontent.com/58917487/148698378-e9e6397d-4423-44e1-9163-d19ed52c431f.png">
