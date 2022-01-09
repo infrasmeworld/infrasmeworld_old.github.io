@@ -6,6 +6,8 @@ main:
     url: /cloud/
   - title: "Devops"
     url: /devops/
+  - title: "Consulting"
+    url: /consulting/ 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
