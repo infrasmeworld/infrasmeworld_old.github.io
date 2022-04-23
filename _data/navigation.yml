@@ -8,7 +8,7 @@ main:
     url: /devops/
   - title: "Consulting"
     url: /consulting/ 
-  - title: "/categories/"
+  - title: "Categories"
     url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
