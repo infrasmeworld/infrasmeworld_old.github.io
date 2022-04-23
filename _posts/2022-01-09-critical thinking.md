@@ -1,11 +1,15 @@
 ---
 title: "Critical Thinking"
 date: 2022-01-09
+layout: category
+permalink: /cloud/
+taxonomy: cloud
 tags: [Consulting]
 header:
   image: "/images/critcal-thinking.jpeg"
 excerpt: "Consulting, Thinking"
 ---
+
 
 ## Introduction
 
