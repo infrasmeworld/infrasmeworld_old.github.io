@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /categories/
+permalink: /cloud/
 title: "Cloud technology posts!"
 author_profile: true
 header:
