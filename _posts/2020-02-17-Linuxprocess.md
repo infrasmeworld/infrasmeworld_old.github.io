@@ -1,7 +1,7 @@
 ---
 title: "Linux Processes"
 date: 2020-02-17
-tags: [Linux, system internals, processes, categories]
+tags: [Linux, system internals, processes, NewCategory]
 header:
   image: "/images/process.png"
 excerpt: "Linux, system internals, processes"
