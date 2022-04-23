@@ -2,7 +2,7 @@
 title: "Critical Thinking"
 date: 2022-01-09
 layout: category
-permalink: /cloud/cloud
+permalink: /cloud/cloud/
 taxonomy: cloud
 tags: [Consulting]
 header:
